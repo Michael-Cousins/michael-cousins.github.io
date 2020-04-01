@@ -44,6 +44,16 @@ p
 {
 }
 
+strong {
+  font-weight: 900;
+
+}
+
+em {
+	color: #CFCFCF;
+
+}
+
 a
 {
 	text-decoration: underline;
@@ -62,7 +72,13 @@ a:hover
 		display: block;
 		width: 100%;
 	}
-	
+	.image-style2
+	{
+		display: block;
+	 	margin-left: auto;
+  		margin-right: auto;
+		width: 50%;
+	}	
 /* Buttons Style 1 */
 
 
